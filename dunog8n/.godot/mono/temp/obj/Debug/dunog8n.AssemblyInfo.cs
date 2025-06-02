@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dunog8n")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1772ac57b3d85bb5514cc14beee87182c171b13f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e32ef556b05ef352d640feb169b1e2e07b4fe04")]
 [assembly: System.Reflection.AssemblyProductAttribute("dunog8n")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dunog8n")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
